@@ -42,4 +42,9 @@ body{
 }
 .container div{
     margin: 6em;
+    text-align: center;
+}
+.container_aviso{
+    padding: 10px;
+    font-size: 10px;
 }
